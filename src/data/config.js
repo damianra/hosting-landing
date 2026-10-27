@@ -1,0 +1,3 @@
+export const SITE_NAME = 'NEXAHOST';
+export const SITE_TAGLINE = 'HOSTING ORBITAL';
+export const WHATSAPP_NUMBER = '1100000000';
